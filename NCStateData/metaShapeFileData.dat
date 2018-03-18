@@ -13,6 +13,8 @@ State Senate Special Master Guilford County Alternate Districts 1	12/01/2017	Dis
 State Senate Special Master Guilford County Alternate Districts 2	12/01/2017	DistrictPlans/GuilfordCountySenateAlternatePlan2	https://www.ncleg.net/representation/Content/SpecialMaster.aspx	True
 State House Special Master Recommended Districts	12/01/2017	DistrictPlans/RecommendedHousePlan	https://www.ncleg.net/representation/Content/SpecialMaster.aspx	True
 State Senate Special Master Recommended Districts	12/01/2017	DistrictPlans/recommendedSenatePlan	https://www.ncleg.net/representation/Content/SpecialMaster.aspx	True
-VTD	01/01/2012	tl_2012_37_vtd10	ftp://ftp2.census.gov/geo/tiger/TIGER2012/VTD/	False	CountyFP10	GEOID10
+VTD	01/01/2010	tl_2012_37_vtd10	ftp://ftp2.census.gov/geo/tiger/TIGER2012/VTD/	False	CountyFP10	GEOID10
+VTD	09/01/2012	VTD/SBE_VTD_09012012	https://dl.ncsbe.gov/?prefix=ShapeFiles/VTD/	False	COUNTY_NAM	VTD_ID
+VTD	09/10/2015	VTD/SBE_VTD_20150910	https://dl.ncsbe.gov/?prefix=ShapeFiles/VTD/	False	COUNTY_NAM	VTD_ID
 Block Group	01/01/2016	tl_2016_37_bg	https://catalog.data.gov/dataset/tiger-line-shapefile-2016-state-north-carolina-current-block-group-state-based	False	CountyFP	GEOID
 County Subdivisions	01/01/2013	tl_2013_37_cousub	https://catalog.data.gov/dataset/tiger-line-shapefile-2013-state-north-carolina-current-county-subdivision-state-based	False	CountyFP	GEOID
